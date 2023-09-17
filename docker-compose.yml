@@ -1,0 +1,4 @@
+app:
+  image: taai-app-svc:latest
+  ports:
+    - "5000:5000"
